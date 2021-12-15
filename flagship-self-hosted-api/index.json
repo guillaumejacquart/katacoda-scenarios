@@ -22,6 +22,11 @@
         "text": "step4.md"
       }
     ],
+    "assets": {
+      "host01": [
+        { "file": "config.yaml", "target": "/root/", "chmod": "+rw" }
+      ]
+    },
     "intro": {
       "text": "intro.md"
     },
@@ -30,7 +35,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "ubuntu:2004"
