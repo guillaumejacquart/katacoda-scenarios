@@ -8,24 +8,10 @@
       {
         "title": "Step 1",
         "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
       }
     ],
     "assets": {
-      "host01": [
-        { "file": "config.yaml", "target": "/root/", "chmod": "+rw" }
-      ]
+      "host01": [{ "file": "config.yaml", "target": "/root/", "chmod": "+rw" }]
     },
     "intro": {
       "text": "intro.md"
