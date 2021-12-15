@@ -5,7 +5,7 @@
 Open the config file and fillout your Flagship Environment ID & API Key.
 You can get them [Here](https://app.flagship.io/)
 
-`config.yaml`{{open}}
+Click here to edit the configuration: `config.yaml`{{open}}
 
 ## 2. Start Flagship Self-Hosted Decision API
 
